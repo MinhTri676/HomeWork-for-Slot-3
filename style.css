@@ -1,0 +1,106 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.title .slogan1 {
+  width: 23%;
+  text-align: center;
+}
+
+.main {
+  text-align: center;
+}
+
+.title .slogan2 {
+  width: 23%;
+  text-align: center;
+}
+
+.title {
+  background-color: #0056b3;
+  color: white;
+  padding: 10px 0;
+  display: flex;
+}
+
+.overview .content {
+  width: 48%;
+}
+
+.overview .summary {
+  width: 48%;
+}
+
+.summary {
+  margin-bottom: 300px;
+}
+
+.overview .summary img {
+  width: 200px;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+table {
+  border: 3px solid #ddd;
+}
+
+.row {
+  text-align: left;
+}
+
+.overview {
+  display: flex;
+}
+
+div {
+  margin: auto;
+  width: 1500px;
+  font-size: x-large;
+}
+
+nav {
+  background-color: #003366;
+  padding: 10px;
+  text-align: center;
+}
+nav a {
+  color: white;
+  margin: 0 15px;
+}
+
+.overview img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1300px;
+}
+
+.bang {
+  color: #010156;
+  text-align: center;
+}
+
+.part4 a {
+  color: blue;
+}
+
+.hang {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 20px;
+}
