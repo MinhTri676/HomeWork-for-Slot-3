@@ -86,27 +86,6 @@ img {
   width: 1300px;
 }
 
-.bang {
-  color: #010156;
-  text-align: center;
-}
-
-.part4 a {
-  color: blue;
-}
-
-.hang {
-  text-align: center;
-}
-
-table {
-  display: flex;
-  justify-content: center;
-  border-collapse: collapse;
-  margin: 10px;
-  width: 200px; 
-}
-
 footer{
     text-align: center;
     padding: 3px;;
@@ -124,6 +103,11 @@ li{
   font-weight: bold;
   
 }
+
+table {
+  border-collapse: collapse;
+  margin: 10px;
+}
 th {
   background-color: #0044cc;
   color: white;
@@ -134,5 +118,4 @@ td {
   padding: 10px;
   text-align: center;
 }
-
 
