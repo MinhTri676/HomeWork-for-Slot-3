@@ -100,6 +100,8 @@ img {
 }
 
 table {
+  display: flex;
+  justify-content: center;
   border-collapse: collapse;
   margin: 10px;
   width: 200px; 
